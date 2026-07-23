@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lokesh Saini</h1>
 
-<h3 align="center">Full Stack Developer | MERN | Java Spring Boot | React | Next.js</h3>
+<h3 align="center">Full Stack Developer | MERN | Java Spring Boot | React | Next.js | AI Enthusiast</h3>
 
 <p align="center">
-Building scalable web applications with modern frontend and backend technologies.
+Building scalable web applications, SaaS platforms, and AI-powered solutions using modern technologies.
 </p>
 
 ---
@@ -11,10 +11,10 @@ Building scalable web applications with modern frontend and backend technologies
 ## 👨‍💻 About Me
 
 - 💼 Full Stack Developer specializing in MERN Stack & Java Spring Boot
-- 🚀 Building scalable and secure SaaS applications
-- ☕ Backend development with Java, Spring Boot & Microservices
-- ⚛️ Frontend development with React, Next.js & modern UI technologies
-- 🤖 Exploring AI-powered applications, LLMs & automation
+- 🚀 Building scalable, secure, and multi-tenant SaaS applications
+- ☕ Backend development using Java, Spring Boot & Microservices
+- ⚛️ Frontend development using React, Next.js & modern UI technologies
+- 🤖 Exploring AI-powered applications, LLMs, and automation
 - 📚 Currently learning Advanced Spring Boot, Microservices Architecture & AI/ML
 
 ---
@@ -22,8 +22,8 @@ Building scalable web applications with modern frontend and backend technologies
 ## 🔭 Currently Working On
 
 - 🚀 A **Multi-Tenant SaaS Application**
-- 🏗️ Backend development using **Java Spring Boot**
-- ⚛️ Frontend development using **Next.js**
+- 🏗️ Developing backend services using **Java Spring Boot**
+- ⚛️ Building frontend applications using **Next.js**
 - 🔐 Implementing authentication, authorization, tenant management, and scalable architecture
 - ☁️ Exploring cloud-ready application design and deployment strategies
 
@@ -34,9 +34,9 @@ Building scalable web applications with modern frontend and backend technologies
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Large Language Models (LLMs)
 - 🔥 AI-powered application development
-- 🛠️ Spring Boot Advanced Concepts
-- 🏢 Microservices Architecture
-- ☁️ Cloud & DevOps Practices
+- 🛠️ Advanced Spring Boot & Microservices
+- 🏢 Distributed Systems Architecture
+- ☁️ Cloud Computing & DevOps Practices
 
 ---
 
@@ -54,7 +54,7 @@ Building scalable web applications with modern frontend and backend technologies
 
 - Advanced AI/ML implementations
 - LLM-based application development
-- Scaling large SaaS applications
+- Scaling large SaaS platforms
 - Distributed systems and cloud architecture
 
 ---
@@ -77,9 +77,9 @@ Building scalable web applications with modern frontend and backend technologies
 
 ## 📫 How to Reach Me
 
-- 📧 your@email.com
-- 💼 LinkedIn
-- 🌍 Portfolio
+- 📧 Email: [lokesh80saini@gmail.com](mailto:lokesh80saini@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/lokeshsaini4877](https://www.linkedin.com/in/lokeshsaini4877/)
+- 🌍 Portfolio: [lokesh80saini.netlify.app](https://lokesh80saini.netlify.app)
 
 ---
 
@@ -91,38 +91,38 @@ Building scalable web applications with modern frontend and backend technologies
 
 ## ⚡ Fun Fact
 
-- 🚀 I love building products that combine modern web technologies with AI innovation.
-- ☕ I can spend hours designing scalable backend architectures and improving user experiences.
+- 🚀 I enjoy building products that combine modern web technologies with AI innovation.
+- ☕ I love designing scalable backend architectures and improving user experiences.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue,vite" />
 </p>
 
-### Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
-### Database
+## Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
 </p>
 
-### Tools
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
-### AI & Emerging Technologies
+## AI & Emerging Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
@@ -130,76 +130,46 @@ Building scalable web applications with modern frontend and backend technologies
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏢 Multi-Tenant SaaS Platform
+## 🏢 Multi-Tenant SaaS Platform
 
+- Preview [http://staynest.varcel.app/]
 - Multi-tenant architecture
-- Backend built with Java Spring Boot
-- Frontend built with Next.js
+- Backend developed using **Java Spring Boot**
+- Frontend developed using **Next.js**
 - Authentication & Authorization
 - Tenant management system
+- Role-Based Access Control
 - Scalable REST APIs
 - Database optimization
 
 ---
 
-### 🏥 Healthcare Booking App
-
-- JWT Authentication
-- Appointment Scheduling
-- Role-Based Access Control (RBAC)
-- Responsive UI
-- React + Node.js + MongoDB
-
----
-
-### 📄 Karigar Management Platform
-
-- Voice-based Form Filling
-- AI Integration
-- Authentication System
-- Dashboard Management
-- React + Node.js + MongoDB
-
----
-
-## 📈 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokesh4877saini&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh4877saini&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=lokesh4877saini&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh4877saini&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 How to Reach Me
-
-- 📧 Email: [lokesh80saini@gmail.com](mailto:lokesh80saini@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/lokeshsaini4877](https://www.linkedin.com/in/lokeshsaini4877/)
-- 🌍 Portfolio: [lokesh80saini.netlify.app](https://lokesh80saini.netlify.app)
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="mailto:lokesh80saini@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -211,4 +181,5 @@ Building scalable web applications with modern frontend and backend technologies
 <a href="https://lokesh80saini.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 </p>

@@ -134,7 +134,7 @@ Building scalable web applications, SaaS platforms, and AI-powered solutions usi
 
 ## 🏢 Multi-Tenant SaaS Platform
 
-- Preview [http://staynest.varcel.app/]
+- Preview [[http://staynest.varcel.app/](https://staynest-silk.vercel.app/)]
 - Multi-tenant architecture
 - Backend developed using **Java Spring Boot**
 - Frontend developed using **Next.js**

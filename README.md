@@ -79,7 +79,7 @@ Building scalable web applications, SaaS platforms, and AI-powered solutions usi
 
 - 📧 Email: [lokesh80saini@gmail.com](mailto:lokesh80saini@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/lokeshsaini4877](https://www.linkedin.com/in/lokeshsaini4877/)
-- 🌍 Portfolio: [lokesh80saini.vercel.app]((https://lokeshsaini4877.vercel.app/))
+- 🌍 Portfolio: [lokesh80saini.vercel.app](https://lokeshsaini4877.vercel.app/)
 
 ---
 
@@ -178,7 +178,7 @@ Building scalable web applications, SaaS platforms, and AI-powered solutions usi
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://lokesh80saini.netlify.app">
+<a href="https://lokeshsaini4877.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 

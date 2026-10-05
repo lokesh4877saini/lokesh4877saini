@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh Saini</h1>
 
-<h3 align="center">Full Stack Developer | MERN | Java Spring Boot | React | Next.js | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN | Java Spring Boot | Dotnet | React | Next.js | AI Enthusiast</h3>
 
 <p align="center">
 Building scalable web applications, SaaS platforms, and AI-powered solutions using modern technologies.
@@ -107,7 +107,7 @@ Building scalable web applications, SaaS platforms, and AI-powered solutions usi
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,dotnet,firebase" />
 </p>
 
 ## Database

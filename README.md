@@ -12,7 +12,7 @@ Building scalable web applications, SaaS platforms, and AI-powered solutions usi
 
 - 💼 Full Stack Developer specializing in MERN Stack & Java Spring Boot
 - 🚀 Building scalable, secure, and multi-tenant SaaS applications
-- ☕ Backend development using Java, Spring Boot & Microservices
+- ☕ Backend development using Java, Spring Boot & Microservices,DotNet
 - ⚛️ Frontend development using React, Next.js & modern UI technologies
 - 🤖 Exploring AI-powered applications, LLMs, and automation
 - 📚 Currently learning Advanced Spring Boot, Microservices Architecture & AI/ML
